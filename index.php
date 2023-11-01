@@ -37,10 +37,12 @@
                   </div>
                   <div class="col-lg-6 mb-5 mb-lg-0">
                     <div class="card">
+
                       <div class="card-body py-5 px-md-5">
 
-                        <form name="login" action="authentication.php" method="POST"> <!-- 2 column grid layout with text inputs for the first and last names -->
-                        <button type="submit" class="btn  btn-primary btn-block mb-4" aria-controls="#picker-editor">Teacher Login</button>
+                        <form name="login" action="authentication.php" method="POST">  <!-- 2 column grid layout with text inputs for the first and last names -->
+                        
+
               <div class="container">
 
                 <div class="row gx-lg- align-items-center">
